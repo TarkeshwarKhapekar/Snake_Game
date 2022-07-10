@@ -13,8 +13,3 @@ This is the snake game developed using python. Snake game is one of the most pop
 
 # OUTPUT
 ![Screenshot (321)](https://user-images.githubusercontent.com/93650602/178147347-f541fb9f-abec-400a-9d5e-71b28577c6c6.png)
-
-![Screenshot (321)](https://user-images.githubusercontent.com/93650602/178147364-38745a18-3230-4957-8879-4f6f6066169d.png)
-
-
-
